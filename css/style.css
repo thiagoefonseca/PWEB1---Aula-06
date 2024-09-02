@@ -1,0 +1,17 @@
+.romano{
+    list-style-type: upper-roman;
+
+}
+.Romano{
+    list-style: lower-roman;
+
+}
+.quadrado
+{
+    list-style: square;
+ 
+}
+
+h1{
+    color: red;
+}
